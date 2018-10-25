@@ -1,0 +1,7 @@
+{
+    "appService.deploySubpath": "",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8f61df6f-ef6e-43b8-b7ca-720e3d75d9e8/resourceGroups/CTIAutoBotApp/providers/Microsoft.Web/sites/nodeapp444"
+}
